@@ -37,4 +37,9 @@ Por ejemplo:
 ### Funcionalidad Adicional:
 
 - Un botón que copie el texto encriptado/desencriptado al portapapeles, funcionando de manera similar a la combinación ctrl+C o a la opción "copiar" en los menús de las aplicaciones.
- 
+
+---
+
+### Autor:
+- Junior Cabrera <br>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jcabrerav)  
